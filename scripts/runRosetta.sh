@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Setup folders for each ddG calculations: mutable positions are 462-553
+#Setup folders for each ddG calculation: variable positions are 462-553
 #---------------------------------------------------------------------------------------------------------------------
 mkdir ../muts/
 for pos in {462..553}
